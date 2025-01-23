@@ -97,4 +97,4 @@ git push origin feature/nouvelle-fonctionnalite
 
 ## Licence
 
-Ce projet est sous licence **MIT**. Consulte le fichier `LICENSE` pour plus d'informations.
+Ce projet est est un Open Source.
