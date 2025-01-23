@@ -65,7 +65,7 @@ Le jeu de données utilisé est une combinaison des ensembles **Statlog**, **Cle
 - **max heart rate** : Fréquence cardiaque maximale atteinte.
 - **target** : Présence d'une maladie cardiaque (1 = Oui, 0 = Non).
 
-Pour plus de détails, consulte le fichier `data_description.txt`.
+Pour plus de détails, consulte le fichier `documentation.pdf`.
 
 ## Contributions
 
