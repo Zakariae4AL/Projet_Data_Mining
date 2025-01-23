@@ -7,16 +7,19 @@ Bienvenue dans le projet de prédiction des maladies cardiaques. Ce projet utili
 Ce dépôt contient les fichiers suivants :
 
 ### Rapport :
-- **Rapport_Analyse_Maladies_Cardiaques.pdf** : Rapport détaillé expliquant les méthodes, les résultats, et les conclusions du projet.
+- **`Rapport_Analyse_Maladies_Cardiaques.pdf`** : Rapport détaillé expliquant les méthodes, les résultats, et les conclusions du projet.
 
 ### Données :
-- **heart_statlog_cleveland_hungary_final.csv** : Jeu de données utilisé pour le projet. Il comprend des caractéristiques cliniques telles que l'âge, le sexe, le taux de cholestérol, etc.
+- **`heart_statlog_cleveland_hungary_final.csv`** : Jeu de données utilisé pour le projet. Il comprend des caractéristiques cliniques telles que l'âge, le sexe, le taux de cholestérol, etc.
 
 ### Documentation des données :
-- **documentation.pdf** : Documentation décrivant chaque colonne du jeu de données, ses unités et sa signification.
+- **`documentation.pdf`** : Documentation décrivant chaque colonne du jeu de données, ses unités et sa signification.
 
 ### Scripts :
-- **datamining_heartdesease(1).py** : Code Python contenant toutes les implémentations des méthodes utilisées (Recursive Feature Elimination, Firefly Algorithm, etc.).
+- **`datamining_heartdesease(1).py`** : Code Python contenant toutes les implémentations des méthodes utilisées (Recursive Feature Elimination, Firefly Algorithm, etc.).
+
+### Notebook :
+- **`DataMining_HeartDesease.ipynb`** : Notebook Jupyter interactif pour l'exploration des données, la visualisation, et l'exécution des méthodes de data mining.
 
 ## Méthodes utilisées
 
